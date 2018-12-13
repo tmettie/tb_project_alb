@@ -1,3 +1,4 @@
+Brand new line of text to test commit
 This is my first git file
 For my first git lab
 For my job at Quicken Loans
